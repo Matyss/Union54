@@ -4,8 +4,8 @@
   "description": "Initial E2E test for Union54 app",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --browser chrome --headed --no-exit",
-    "prettier": "prettier --config .prettierrc '**/*.ts'"
+    "test": "cypress run --browser chrome",
+    "prettier-format": "prettier --config .prettierrc '**/*.ts' --write"
   },
   "author": "Matyss",
   "license": "ISC",
