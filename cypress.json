@@ -1,1 +1,5 @@
-{}
+{
+  "testFiles": "**/*.spec.ts",
+  "baseUrl": "https://sandbox.union54.technology/v1",
+  "video": false
+}
